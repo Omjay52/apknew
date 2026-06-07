@@ -1,0 +1,6 @@
+{
+  "name": "Dairy Records",
+  "description": "Log, manage, and analyze daily farm milk production yields and operational expenses with interactive charting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
